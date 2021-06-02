@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import './horizontalList.dart';
+import './trailerWidget.dart';
 
 class ComingSoon extends StatefulWidget {
   ComingSoon({Key key, this.title}) : super(key: key);
@@ -35,33 +36,16 @@ class _ComingSoonState extends State<ComingSoon> {
                 children: <Widget>[
                   Stack(
                     children: [
-                      // Container(
-                      //     width: w,
-                      //     height: h * 0.5,
-                      //     child: Image.asset('images/blue-exorcist.jpeg',
-                      //         fit: BoxFit.fill)),
                       Column(
                         children: [
                           Container(
-
-                              // padding: EdgeInsets.only()
                               margin: EdgeInsets.all(5),
                               width: w,
                               height: h * 0.1,
                               child: Row(
                                 mainAxisAlignment:
                                     MainAxisAlignment.spaceBetween,
-                                // crossAxisAlignment: CrossAxisAlignment.baseline,
                                 children: [
-                                  // Container(
-                                  //     alignment: Alignment.bottomCenter,
-                                  //     padding: EdgeInsets.only(top: 20),
-                                  //     width: w * 0.1,
-                                  //     height: h * 0.06,
-                                  //     // color: Colors.green,
-                                  //     child: Image.asset(
-                                  //         'images/netflix_logo.png')),
-
                                   Text('Coming Sooon',
                                       style: TextStyle(
                                           color: Colors.white, fontSize: 20)),
@@ -93,6 +77,7 @@ class _ComingSoonState extends State<ComingSoon> {
                                 ],
                               )),
                           Container(
+                              padding: EdgeInsets.all(10),
                               width: w,
                               height: h * 0.05,
                               // color: Colors.red,
@@ -103,13 +88,13 @@ class _ComingSoonState extends State<ComingSoon> {
                                         width: w * 0.1,
                                         // height: h * 0.15,
                                         decoration: BoxDecoration(
-                                            color: Colors.red,
+                                            // color: Colors.red,
                                             borderRadius:
                                                 BorderRadius.circular(19))),
                                     Align(
                                       alignment: Alignment.centerRight,
                                       child: Icon(Icons.notifications_outlined,
-                                          size: 40),
+                                          color: Colors.white, size: 40),
                                     ),
                                   ]),
                                   SizedBox(width: 20),
@@ -124,114 +109,76 @@ class _ComingSoonState extends State<ComingSoon> {
                       ),
                     ],
                   ),
-
                   Container(
-                      // width: w,
-                      // height: h * 0.18,
-
+                      padding: EdgeInsets.all(10),
                       child: Column(
-                    children: [
-                      Row(
-                        // mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                         children: [
-                          // Container(
-                          //     height: h * 0.06,
-                          //     width: w * 0.05,
-                          //     color: Colors.green)
+                          Row(
+                            children: [
+                              Container(
+                                  height: h * 0.09,
+                                  width: w * 0.4,
+                                  // color: Colors.red,
+                                  child: Image.asset('images/lego-batman.jpeg',
+                                      fit: BoxFit.cover)),
+                              Container(
+                                width: w * 0.55,
+                                height: h * 0.09,
+
+                                padding: EdgeInsets.all(10),
+                                // color: Colors.white,
+                                child: Column(
+                                  crossAxisAlignment: CrossAxisAlignment.start,
+                                  mainAxisAlignment:
+                                      MainAxisAlignment.spaceEvenly,
+                                  children: [
+                                    Text('Title',
+                                        style: TextStyle(color: Colors.white)),
+                                    Text('Subtitle, short and sweet',
+                                        style: TextStyle(color: Colors.white)),
+                                    Text('01 June',
+                                        style: TextStyle(color: Colors.white))
+                                  ],
+                                ),
+                              )
+                            ],
+                          ),
+                          SizedBox(height: 20),
+                          Row(
+                            // mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                            children: [
+                              Container(
+                                  height: h * 0.09,
+                                  width: w * 0.4,
+                                  // color: Colors.green,
+                                  child: Image.asset('images/die-hard.png',
+                                      fit: BoxFit.fill)),
+                              Container(
+                                padding: EdgeInsets.all(10),
+                                width: w * 0.55,
+                                height: h * 0.09,
+                                // color: Colors.white,
+                                child: Column(
+                                  crossAxisAlignment: CrossAxisAlignment.start,
+                                  mainAxisAlignment:
+                                      MainAxisAlignment.spaceEvenly,
+                                  children: [
+                                    Text('Title',
+                                        style: TextStyle(color: Colors.white)),
+                                    Text('Subtitle, short and sweet',
+                                        style: TextStyle(color: Colors.white)),
+                                    Text('01 June',
+                                        style: TextStyle(color: Colors.white))
+                                  ],
+                                ),
+                              )
+                            ],
+                          ),
                         ],
-                      ),
-                      Row(
-                        // mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                        children: [
-                          Container(
-                              height: h * 0.09,
-                              width: w * 0.4,
-                              // color: Colors.red,
-                              child: Image.asset('images/lego-batman.jpeg',
-                                  fit: BoxFit.fill)),
-                          Container(
-                            width: w * 0.6,
-                            height: h * 0.09,
-                            // color: Colors.white,
-                            child: Column(
-                              crossAxisAlignment: CrossAxisAlignment.start,
-                              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                              children: [
-                                Text('Title',
-                                    style: TextStyle(color: Colors.white)),
-                                Text('Subtitle, with more context on the page',
-                                    style: TextStyle(color: Colors.white)),
-                                Text('01 June',
-                                    style: TextStyle(color: Colors.white))
-                              ],
-                            ),
-                          )
-                        ],
-                      ),
-                      SizedBox(width: 50),
-                      Row(
-                        // mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                        children: [
-                          Container(
-                              height: h * 0.09,
-                              width: w * 0.4,
-                              color: Colors.green,
-                              child: Image.asset('images/die-hard.png',
-                                  fit: BoxFit.fill)),
-                          Container(
-                            width: w * 0.6,
-                            height: h * 0.09,
-                            // color: Colors.white,
-                            child: Column(
-                              crossAxisAlignment: CrossAxisAlignment.start,
-                              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                              children: [
-                                Text('Title',
-                                    style: TextStyle(color: Colors.white)),
-                                Text('Subtitle, with more context on the page',
-                                    style: TextStyle(color: Colors.white)),
-                                Text('01 June',
-                                    style: TextStyle(color: Colors.white))
-                              ],
-                            ),
-                          )
-                        ],
-                      ),
-                    ],
-                  )),
-                  HorizontalList(
-                    title: 'My List',
-                    image1: 'images/demon_slayerr.png',
-                    // image2: 'images/close_enough.jpeg',
-                    // image3: 'images/close_enough.jpeg',
-                    // image4: 'images/close_enough.jpeg',
-                    // image5: 'images/close_enough.jpeg',
-                  ),
-                  HorizontalList(
-                    title: 'Continue Watching for Nicki',
-                    image1: 'images/demon_slayerr.png',
-                    // image2: 'images/close_enough.jpeg',
-                    // image3: 'images/close_enough.jpeg',
-                    // image4: 'images/close_enough.jpeg',
-                    // image5: 'images/close_enough.jpeg',
-                  ),
-                  HorizontalList(
-                    title: 'Popular on Netflix',
-                    image1: 'images/demon_slayerr.png',
-                    // image2: 'images/close_enough.jpeg',
-                    // image3: 'images/close_enough.jpeg',
-                    // image4: 'images/close_enough.jpeg',
-                    // image5: 'images/close_enough.jpeg',
-                  ),
-                  HorizontalList(
-                    title: 'Trending Now',
-                    image1: 'images/demon_slayerr.png',
-                    // image2: 'images/close_enough.jpeg',
-                    // image3: 'images/close_enough.jpeg',
-                    // image4: 'images/close_enough.jpeg',
-                    // image5: 'images/close_enough.jpeg',
-                  ),
-                  // HorizontalList(title: 'Continue watch for James'),
+                      )),
+                  SizedBox(height: 50),
+                  TrailerWidget(),
+                  TrailerWidget(date: 'Season 2 30 June')
                 ],
               ),
             ),

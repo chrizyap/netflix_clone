@@ -10,7 +10,7 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		n/IU3lhIvlkpXHoNcUvziFMPuiY=
+		3a7X3T7X+lORa+E8enzW7oeoLvk=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -48,6 +48,10 @@
 		<data>
 		5+stV3lS9Bdc/ZRdVsjef9PB6Hc=
 		</data>
+		<key>flutter_assets/images/die-hard.png</key>
+		<data>
+		2uqKV9xC/QiTZZMyjArYRuOFxv0=
+		</data>
 		<key>flutter_assets/images/download.png</key>
 		<data>
 		0+ZoB8Zpzk56hyC48FfSJkyfI4c=
@@ -71,6 +75,10 @@
 		<key>flutter_assets/images/jojo-adventure.jpeg</key>
 		<data>
 		YMYv9Nea4i050RbfVCYdgZ/s+KM=
+		</data>
+		<key>flutter_assets/images/lego-batman.jpeg</key>
+		<data>
+		f7oJUW1X2Ik8Zf8JI+ch2H1hLVs=
 		</data>
 		<key>flutter_assets/images/lovedeathrobots.jpg</key>
 		<data>
@@ -96,6 +104,10 @@
 		<data>
 		zBra1pvq6bgEvifQ3ctZhKzeOaI=
 		</data>
+		<key>flutter_assets/images/sevendeadlysins.jpg</key>
+		<data>
+		fN01KDSCxJkz1XWLHxz4KBfgQdw=
+		</data>
 		<key>flutter_assets/images/thebeginning.jpg</key>
 		<data>
 		ELNxye20Xj3gJuzYnM1EX4v8Zos=
@@ -106,7 +118,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		IsB74EOtbdSwJamnYkFwIpYGX8o=
+		glLqEqrolnrobliUXRZVEGXlf3g=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -123,11 +135,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			n/IU3lhIvlkpXHoNcUvziFMPuiY=
+			3a7X3T7X+lORa+E8enzW7oeoLvk=
 			</data>
 			<key>hash2</key>
 			<data>
-			2n4eTvE8O5lJ3hnmxBhWYQf8uYQjhgrydqIPVELw/v0=
+			gXO7+gzplEDK5wS6K3hUQTw13TeexhmInAdcbrvBun0=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -229,6 +241,17 @@
 			89qtrX6FGQmTBaf1PQYId3fUizzfo0SAiFvdSJvJ9Kk=
 			</data>
 		</dict>
+		<key>flutter_assets/images/die-hard.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2uqKV9xC/QiTZZMyjArYRuOFxv0=
+			</data>
+			<key>hash2</key>
+			<data>
+			8SBHaq+cHo4Z+Ml6inkjRT63FT6Ltbvgg/HIsQ0NYk0=
+			</data>
+		</dict>
 		<key>flutter_assets/images/download.png</key>
 		<dict>
 			<key>hash</key>
@@ -293,6 +316,17 @@
 			<key>hash2</key>
 			<data>
 			4IrMczTMS1qwnab+PVSRYwq0/g9sExKxbyeCSJS2Qgk=
+			</data>
+		</dict>
+		<key>flutter_assets/images/lego-batman.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			f7oJUW1X2Ik8Zf8JI+ch2H1hLVs=
+			</data>
+			<key>hash2</key>
+			<data>
+			/UiyVqv4gbnZo8jr98pq0mJqSFmBC4dYf2NovZV54so=
 			</data>
 		</dict>
 		<key>flutter_assets/images/lovedeathrobots.jpg</key>
@@ -361,6 +395,17 @@
 			/eeT4KCiHWqvgU+Y3sSMV02S6qNBUBWryCY3BEI8j8s=
 			</data>
 		</dict>
+		<key>flutter_assets/images/sevendeadlysins.jpg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fN01KDSCxJkz1XWLHxz4KBfgQdw=
+			</data>
+			<key>hash2</key>
+			<data>
+			YtbT1l18XvmMtNJ/iJTbn4hjxVY0Lf1ifAxwQx0qjj0=
+			</data>
+		</dict>
 		<key>flutter_assets/images/thebeginning.jpg</key>
 		<dict>
 			<key>hash</key>
@@ -387,11 +432,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IsB74EOtbdSwJamnYkFwIpYGX8o=
+			glLqEqrolnrobliUXRZVEGXlf3g=
 			</data>
 			<key>hash2</key>
 			<data>
-			4cGPcymzHn3xMrDO8bTtJYOIHKKBRow43ajUeIDaHAY=
+			NhrUmPj/Kvg9FAT0hoY1XON0ulUMLNtObjHdOfAgl+M=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>

@@ -86,7 +86,7 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		s9TL7AlDPP6VginKwq2RLJMB/kE=
+		rINgC0I+CNjFDaEEYF8bT+lxVWs=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -94,11 +94,11 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		DL/zC3YRcjQevyMMZhWGpa8NBtQ=
+		zMU3TU5iwqMViB3KnkawC7/iQKg=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		kU5k2pSqENzxsffhyypGwPppT4U=
+		6OThMeL5TNhbD2TDERnuLGiyzQw=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -106,11 +106,11 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		XTtljZbeD6smhfnYpzKb6n14c4I=
+		vsnf70CNDtEAIySQNvuADsLV9rQ=
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		pQof537BwEWw8EefCE2tQqrTE4A=
+		i6tvRWCKGrhB6ZPilpDRK/bYuoc=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -118,11 +118,11 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		DI8NUZuJRw+u2z8a0boZgTOdzSs=
+		t8EfzQfjc8KcvFlzszzCYptmNNw=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		n/IU3lhIvlkpXHoNcUvziFMPuiY=
+		3a7X3T7X+lORa+E8enzW7oeoLvk=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -160,6 +160,10 @@
 		<data>
 		5+stV3lS9Bdc/ZRdVsjef9PB6Hc=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/die-hard.png</key>
+		<data>
+		2uqKV9xC/QiTZZMyjArYRuOFxv0=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/images/download.png</key>
 		<data>
 		0+ZoB8Zpzk56hyC48FfSJkyfI4c=
@@ -183,6 +187,10 @@
 		<key>Frameworks/App.framework/flutter_assets/images/jojo-adventure.jpeg</key>
 		<data>
 		YMYv9Nea4i050RbfVCYdgZ/s+KM=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/lego-batman.jpeg</key>
+		<data>
+		f7oJUW1X2Ik8Zf8JI+ch2H1hLVs=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/images/lovedeathrobots.jpg</key>
 		<data>
@@ -208,6 +216,10 @@
 		<data>
 		zBra1pvq6bgEvifQ3ctZhKzeOaI=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/sevendeadlysins.jpg</key>
+		<data>
+		fN01KDSCxJkz1XWLHxz4KBfgQdw=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/images/thebeginning.jpg</key>
 		<data>
 		ELNxye20Xj3gJuzYnM1EX4v8Zos=
@@ -218,7 +230,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		IsB74EOtbdSwJamnYkFwIpYGX8o=
+		glLqEqrolnrobliUXRZVEGXlf3g=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -302,7 +314,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		SCrmQX2d2jszd7i5ofY7EUeJ0Qg=
+		hU2tfoOG/k4u+vsAHRKE/RhHmM0=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -535,11 +547,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			s9TL7AlDPP6VginKwq2RLJMB/kE=
+			rINgC0I+CNjFDaEEYF8bT+lxVWs=
 			</data>
 			<key>hash2</key>
 			<data>
-			USMTyHYyDpMbn1TpqdvbhFC00fwBpCW+mGRyCTvdiWA=
+			3PcraotZNoqGPjd5k1rLj8/aU+hEH4+dCgYtQMj0pZo=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -557,22 +569,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DL/zC3YRcjQevyMMZhWGpa8NBtQ=
+			zMU3TU5iwqMViB3KnkawC7/iQKg=
 			</data>
 			<key>hash2</key>
 			<data>
-			dvzzPfS5Sjo9hftEQj5ey7ew1+7uwO0jbR5825TCHHo=
+			ObpauPNPU4KA4Yhyp/jc7riE7fkwnQXzsli16ECxuBI=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kU5k2pSqENzxsffhyypGwPppT4U=
+			6OThMeL5TNhbD2TDERnuLGiyzQw=
 			</data>
 			<key>hash2</key>
 			<data>
-			fqqpXuLYbSPRNoVacPYcbjU73eUDGO65WN0nPdDcq5E=
+			ljL/vkDfSnhhBdEYsTX29Nkt5/DQJgjpE+EeHVVvnb0=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -590,22 +602,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XTtljZbeD6smhfnYpzKb6n14c4I=
+			vsnf70CNDtEAIySQNvuADsLV9rQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			/uwZcO/eBNE0lDdI1Su9VSI0l4G1P3CEMZazMaqeSLs=
+			amikckV/QsPVp/NK8gqgu5USJt0kAtgHgCxG0QcmJ2Y=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/App</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pQof537BwEWw8EefCE2tQqrTE4A=
+			i6tvRWCKGrhB6ZPilpDRK/bYuoc=
 			</data>
 			<key>hash2</key>
 			<data>
-			zdfpLIgOSThw8h4MV4lyYUG6uvgs5hZEgEFJeCsSwdY=
+			anC8fePV36tEpf3WPAZupCYLvHN9L+kXd1ilKO7zYHo=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -623,22 +635,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DI8NUZuJRw+u2z8a0boZgTOdzSs=
+			t8EfzQfjc8KcvFlzszzCYptmNNw=
 			</data>
 			<key>hash2</key>
 			<data>
-			ONJMDrKcTujYGsXaOyJiu4/dEBJcdGB8HapHxoCVRXc=
+			SXzNs0ZtzR/lhrlmVXMyNhWU6UHIIoFfPnaIoiJFPIw=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			n/IU3lhIvlkpXHoNcUvziFMPuiY=
+			3a7X3T7X+lORa+E8enzW7oeoLvk=
 			</data>
 			<key>hash2</key>
 			<data>
-			2n4eTvE8O5lJ3hnmxBhWYQf8uYQjhgrydqIPVELw/v0=
+			gXO7+gzplEDK5wS6K3hUQTw13TeexhmInAdcbrvBun0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -740,6 +752,17 @@
 			89qtrX6FGQmTBaf1PQYId3fUizzfo0SAiFvdSJvJ9Kk=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/die-hard.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2uqKV9xC/QiTZZMyjArYRuOFxv0=
+			</data>
+			<key>hash2</key>
+			<data>
+			8SBHaq+cHo4Z+Ml6inkjRT63FT6Ltbvgg/HIsQ0NYk0=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/images/download.png</key>
 		<dict>
 			<key>hash</key>
@@ -804,6 +827,17 @@
 			<key>hash2</key>
 			<data>
 			4IrMczTMS1qwnab+PVSRYwq0/g9sExKxbyeCSJS2Qgk=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/lego-batman.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			f7oJUW1X2Ik8Zf8JI+ch2H1hLVs=
+			</data>
+			<key>hash2</key>
+			<data>
+			/UiyVqv4gbnZo8jr98pq0mJqSFmBC4dYf2NovZV54so=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/images/lovedeathrobots.jpg</key>
@@ -872,6 +906,17 @@
 			/eeT4KCiHWqvgU+Y3sSMV02S6qNBUBWryCY3BEI8j8s=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/sevendeadlysins.jpg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fN01KDSCxJkz1XWLHxz4KBfgQdw=
+			</data>
+			<key>hash2</key>
+			<data>
+			YtbT1l18XvmMtNJ/iJTbn4hjxVY0Lf1ifAxwQx0qjj0=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/images/thebeginning.jpg</key>
 		<dict>
 			<key>hash</key>
@@ -898,11 +943,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IsB74EOtbdSwJamnYkFwIpYGX8o=
+			glLqEqrolnrobliUXRZVEGXlf3g=
 			</data>
 			<key>hash2</key>
 			<data>
-			4cGPcymzHn3xMrDO8bTtJYOIHKKBRow43ajUeIDaHAY=
+			NhrUmPj/Kvg9FAT0hoY1XON0ulUMLNtObjHdOfAgl+M=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
