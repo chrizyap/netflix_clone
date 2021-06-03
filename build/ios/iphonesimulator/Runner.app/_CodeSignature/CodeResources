@@ -110,7 +110,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		IP2q4oC4oH9kzagQkWR9NLMWNSw=
+		ZnHNEVb86t2JEXKkkkaNjpCr0Wk=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -118,11 +118,11 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		EEUGtwvFj/DPez5yk/1763At5MI=
+		gvzuwnTY/Ho3lD6+y1vAczPWvSw=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		UrWi/SQuIviaa0WTXRgo/cGu+y8=
+		ablbdt2OHhG1cikyIvCmK6PNbz4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -212,6 +212,14 @@
 		<data>
 		Rh81yeWZaWfH1G7QyK6qpqTR+vc=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/ricknmortyclip.jpeg</key>
+		<data>
+		eq0cDSDhOAnGYgv1uWr12GiTzBI=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/ricknmortylogo.png</key>
+		<data>
+		6BXSecHFLMYwv8fl/2uR0aDiT4A=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/images/search.png</key>
 		<data>
 		zBra1pvq6bgEvifQ3ctZhKzeOaI=
@@ -234,7 +242,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		C6gTxfyQHKrICBX/QwAOClQtFcs=
+		VbaqXovExUnmer48FHYnnl9fsHw=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -617,11 +625,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IP2q4oC4oH9kzagQkWR9NLMWNSw=
+			ZnHNEVb86t2JEXKkkkaNjpCr0Wk=
 			</data>
 			<key>hash2</key>
 			<data>
-			rjNaQq+yIp05tjQebH+rdB0CHK6CcoaQVucgO1WzYW8=
+			fYi0lPjKMh61LVf3m8Me251xTJl5Bbkl1q3sULwu1ek=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -639,22 +647,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EEUGtwvFj/DPez5yk/1763At5MI=
+			gvzuwnTY/Ho3lD6+y1vAczPWvSw=
 			</data>
 			<key>hash2</key>
 			<data>
-			czEAhbLj/z8lSTs/YDm1q0jA4T3jrJNOnR/U/oLPfao=
+			BjejbbGt4LLRnR1KiJCHFGmXtwOEmkeCuor2Bz0NuLI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UrWi/SQuIviaa0WTXRgo/cGu+y8=
+			ablbdt2OHhG1cikyIvCmK6PNbz4=
 			</data>
 			<key>hash2</key>
 			<data>
-			KWxQlIO7ILolmau/xY4LlZ7sGSgeH5+4s1tPTh3Outs=
+			FNfrorGoSpznvKWYaYBdcGDJhfXLIhUeMKVlpWWrIBY=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -899,6 +907,28 @@
 			5SYNlvcJgM5ZYP/LnALaRvxgw44sbbt0Ftutq0rqZUY=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/ricknmortyclip.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eq0cDSDhOAnGYgv1uWr12GiTzBI=
+			</data>
+			<key>hash2</key>
+			<data>
+			IYgcoNXypw5qSJYy54AidTzk3xpZM4FB4SvVbIKhc2o=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/ricknmortylogo.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6BXSecHFLMYwv8fl/2uR0aDiT4A=
+			</data>
+			<key>hash2</key>
+			<data>
+			hxreEC6VhSIsKGG1BMtMc3X0EPrAeWEEBJbwI8fWbcc=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/images/search.png</key>
 		<dict>
 			<key>hash</key>
@@ -958,11 +988,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			C6gTxfyQHKrICBX/QwAOClQtFcs=
+			VbaqXovExUnmer48FHYnnl9fsHw=
 			</data>
 			<key>hash2</key>
 			<data>
-			qje9//VpdNHUisnDeFHLNvmrur/gpT2HG3xmiUt1Vvs=
+			0lVFny8f0QPR9Da/UchXFYQCQzecudnRz/QKDXzz8vo=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
