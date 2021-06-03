@@ -86,7 +86,7 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		rINgC0I+CNjFDaEEYF8bT+lxVWs=
+		qBmqoZtoj34b6P8qbM1AJxeNwJc=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -94,11 +94,11 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		zMU3TU5iwqMViB3KnkawC7/iQKg=
+		1PJEd0BBRl5C/2Us/p3Kg03Q9UI=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		6OThMeL5TNhbD2TDERnuLGiyzQw=
+		0uzbAMzKL4MZ+dM5bLiI8k8CkCw=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -106,11 +106,11 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		vsnf70CNDtEAIySQNvuADsLV9rQ=
+		PJtHlmfeGKvc6TT9iZB9WPBALRA=
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		i6tvRWCKGrhB6ZPilpDRK/bYuoc=
+		IP2q4oC4oH9kzagQkWR9NLMWNSw=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -118,11 +118,11 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		t8EfzQfjc8KcvFlzszzCYptmNNw=
+		EEUGtwvFj/DPez5yk/1763At5MI=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		3a7X3T7X+lORa+E8enzW7oeoLvk=
+		UrWi/SQuIviaa0WTXRgo/cGu+y8=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -216,6 +216,10 @@
 		<data>
 		zBra1pvq6bgEvifQ3ctZhKzeOaI=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/sevendeadlylogo.png</key>
+		<data>
+		RnNg3sGjEgcAIFdHvXKXjW8VOWM=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/images/sevendeadlysins.jpg</key>
 		<data>
 		fN01KDSCxJkz1XWLHxz4KBfgQdw=
@@ -230,7 +234,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		glLqEqrolnrobliUXRZVEGXlf3g=
+		C6gTxfyQHKrICBX/QwAOClQtFcs=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -547,11 +551,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rINgC0I+CNjFDaEEYF8bT+lxVWs=
+			qBmqoZtoj34b6P8qbM1AJxeNwJc=
 			</data>
 			<key>hash2</key>
 			<data>
-			3PcraotZNoqGPjd5k1rLj8/aU+hEH4+dCgYtQMj0pZo=
+			5lSCwt+K1CadC+ELtSeELY1OF7zgoY/+dLmfbNlMjjg=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -569,22 +573,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zMU3TU5iwqMViB3KnkawC7/iQKg=
+			1PJEd0BBRl5C/2Us/p3Kg03Q9UI=
 			</data>
 			<key>hash2</key>
 			<data>
-			ObpauPNPU4KA4Yhyp/jc7riE7fkwnQXzsli16ECxuBI=
+			ugAUDjR3ctfpq97Rvdpm250f4Vga3qWXdh+ima3BQHs=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6OThMeL5TNhbD2TDERnuLGiyzQw=
+			0uzbAMzKL4MZ+dM5bLiI8k8CkCw=
 			</data>
 			<key>hash2</key>
 			<data>
-			ljL/vkDfSnhhBdEYsTX29Nkt5/DQJgjpE+EeHVVvnb0=
+			RBRvCtI856RTRVEW6DDdR8qTRTkrQ/9lyb5teBMulYU=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -602,22 +606,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vsnf70CNDtEAIySQNvuADsLV9rQ=
+			PJtHlmfeGKvc6TT9iZB9WPBALRA=
 			</data>
 			<key>hash2</key>
 			<data>
-			amikckV/QsPVp/NK8gqgu5USJt0kAtgHgCxG0QcmJ2Y=
+			ChX8t99ECf9fEZFiLUVMmWNhjEJNiEj+7M4euHaVsdM=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/App</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			i6tvRWCKGrhB6ZPilpDRK/bYuoc=
+			IP2q4oC4oH9kzagQkWR9NLMWNSw=
 			</data>
 			<key>hash2</key>
 			<data>
-			anC8fePV36tEpf3WPAZupCYLvHN9L+kXd1ilKO7zYHo=
+			rjNaQq+yIp05tjQebH+rdB0CHK6CcoaQVucgO1WzYW8=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -635,22 +639,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			t8EfzQfjc8KcvFlzszzCYptmNNw=
+			EEUGtwvFj/DPez5yk/1763At5MI=
 			</data>
 			<key>hash2</key>
 			<data>
-			SXzNs0ZtzR/lhrlmVXMyNhWU6UHIIoFfPnaIoiJFPIw=
+			czEAhbLj/z8lSTs/YDm1q0jA4T3jrJNOnR/U/oLPfao=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3a7X3T7X+lORa+E8enzW7oeoLvk=
+			UrWi/SQuIviaa0WTXRgo/cGu+y8=
 			</data>
 			<key>hash2</key>
 			<data>
-			gXO7+gzplEDK5wS6K3hUQTw13TeexhmInAdcbrvBun0=
+			KWxQlIO7ILolmau/xY4LlZ7sGSgeH5+4s1tPTh3Outs=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -906,6 +910,17 @@
 			/eeT4KCiHWqvgU+Y3sSMV02S6qNBUBWryCY3BEI8j8s=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/sevendeadlylogo.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RnNg3sGjEgcAIFdHvXKXjW8VOWM=
+			</data>
+			<key>hash2</key>
+			<data>
+			wY5HIUqtGaVqnpuV6/GCQ16xdsbrg4CF1J7WRsifuv8=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/images/sevendeadlysins.jpg</key>
 		<dict>
 			<key>hash</key>
@@ -943,11 +958,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			glLqEqrolnrobliUXRZVEGXlf3g=
+			C6gTxfyQHKrICBX/QwAOClQtFcs=
 			</data>
 			<key>hash2</key>
 			<data>
-			NhrUmPj/Kvg9FAT0hoY1XON0ulUMLNtObjHdOfAgl+M=
+			qje9//VpdNHUisnDeFHLNvmrur/gpT2HG3xmiUt1Vvs=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
