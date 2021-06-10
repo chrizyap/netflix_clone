@@ -4,6 +4,7 @@ import './comingSoon.dart';
 import './humour.dart';
 import './bottomBar.dart';
 import './homePage.dart';
+import './search.dart';
 
 class Home extends StatefulWidget {
   Home({Key key, this.title}) : super(key: key);
@@ -24,11 +25,7 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-  final _tabs = [
-    HomePage(),
-    ComingSoon(),
-    Humour(),
-  ];
+  final _tabs = [HomePage(), ComingSoon(), Humour(), Search()];
 
   int _currentIndex = 0;
 
@@ -56,7 +53,8 @@ class _HomeState extends State<Home> {
               BottomNavigationBarItem(
                   icon: Icon(Icons.style_outlined), label: 'Coming Soooon'),
               BottomNavigationBarItem(
-                  icon: Icon(Icons.emoji_emotions_outlined), label: 'Humour')
+                  icon: Icon(Icons.emoji_emotions_outlined), label: 'Humour'),
+              BottomNavigationBarItem(icon: Icon(Icons.search), label: 'Search')
             ]),
         body: _tabs[_currentIndex]);
   }

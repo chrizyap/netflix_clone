@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import './horizontalList.dart';
 import './trailerWidget.dart';
+import './appBar.dart';
 
 class ComingSoon extends StatefulWidget {
   ComingSoon({Key key, this.title}) : super(key: key);
@@ -38,44 +39,7 @@ class _ComingSoonState extends State<ComingSoon> {
                     children: [
                       Column(
                         children: [
-                          Container(
-                              margin: EdgeInsets.all(5),
-                              width: w,
-                              height: h * 0.1,
-                              child: Row(
-                                mainAxisAlignment:
-                                    MainAxisAlignment.spaceBetween,
-                                children: [
-                                  Text('Coming Sooon',
-                                      style: TextStyle(
-                                          color: Colors.white, fontSize: 20)),
-                                  Row(
-                                    children: [
-                                      Container(
-                                          alignment: Alignment.bottomCenter,
-                                          padding: EdgeInsets.only(top: 20),
-                                          width: w * 0.1,
-                                          height: h * 0.06,
-                                          // color: Colors.white,
-                                          child: Image.asset(
-                                              'images/cast_tv.png',
-                                              color: Colors.white)),
-                                      SizedBox(width: 10),
-                                      Container(
-                                          alignment: Alignment.bottomCenter,
-                                          padding: EdgeInsets.only(
-                                            top: 20,
-                                          ),
-                                          width: w * 0.1,
-                                          height: h * 0.06,
-                                          // color: Colors.green,
-                                          child: Image.asset(
-                                            'images/avatar.png',
-                                          ))
-                                    ],
-                                  ),
-                                ],
-                              )),
+                          NextflixAppBar(),
                           Container(
                               padding: EdgeInsets.all(10),
                               width: w,
@@ -182,97 +146,6 @@ class _ComingSoonState extends State<ComingSoon> {
                 ],
               ),
             ),
-            Positioned(
-              bottom: 0,
-              child: Container(
-                  alignment: Alignment.bottomCenter,
-                  width: w,
-                  height: h * 0.1,
-                  color: Colors.black,
-                  child: Align(
-                    child: Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                      crossAxisAlignment: CrossAxisAlignment.center,
-                      children: [
-                        Column(
-                            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                            children: [
-                              Container(
-                                width: w * 0.07,
-                                // color: Colors.green,
-                                child: Image.asset('images/home.png',
-                                    color: Colors.white),
-                              ),
-                              Text('Home',
-                                  style: TextStyle(
-                                      fontSize: 8, color: Colors.white)),
-                            ]),
-                        FlatButton(
-                          onPressed: () {
-                            print('Yess');
-                            // Within the `FirstRoute` widget
-                          },
-                          child: Column(
-                            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                            children: [
-                              Container(
-                                width: w * 0.07,
-                                // color: Colors.green,
-                                child: Image.asset('images/credit-card.png',
-                                    color: Colors.white),
-                              ),
-                              Text('Coming Soon',
-                                  style: TextStyle(
-                                      fontSize: 8, color: Colors.white)),
-                            ],
-                          ),
-                        ),
-                        Column(
-                          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                          children: [
-                            Container(
-                              width: w * 0.07,
-                              // color: Colors.green,
-                              child: Image.asset('images/humor.png',
-                                  color: Colors.white),
-                            ),
-                            Text('Humour',
-                                style: TextStyle(
-                                    fontSize: 8, color: Colors.white)),
-                          ],
-                        ),
-                        Column(
-                          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                          children: [
-                            Container(
-                              width: w * 0.07,
-                              // color: Colors.green,
-                              child: Image.asset('images/search.png',
-                                  color: Colors.white),
-                            ),
-                            Text('Search',
-                                style: TextStyle(
-                                    fontSize: 8, color: Colors.white)),
-                          ],
-                        ),
-                        Column(
-                          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                          children: [
-                            Container(
-                              width: w * 0.07,
-                              // color: Colors.green,
-                              child: Image.asset('images/download.png',
-                                  color: Colors.white),
-                            ),
-                            Text('Download',
-                                style: TextStyle(
-                                    fontSize: 8, color: Colors.white)),
-                          ],
-                        )
-                      ],
-                    ),
-                  )),
-            )
           ]),
         ),
       ),

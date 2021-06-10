@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import './horizontalList.dart';
+import './appBar.dart';
 
 class HomePage extends StatefulWidget {
   HomePage({Key key, this.title}) : super(key: key);
@@ -44,50 +45,6 @@ class _HomePageState extends State<HomePage> {
                     Column(
                       children: [
                         Container(
-
-                            // padding: EdgeInsets.only()
-                            margin: EdgeInsets.all(5),
-                            width: w,
-                            height: h * 0.1,
-                            child: Row(
-                              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                              // crossAxisAlignment: CrossAxisAlignment.baseline,
-                              children: [
-                                Container(
-                                    alignment: Alignment.bottomCenter,
-                                    padding: EdgeInsets.only(top: 20),
-                                    width: w * 0.1,
-                                    height: h * 0.06,
-                                    // color: Colors.green,
-                                    child:
-                                        Image.asset('images/netflix_logo.png')),
-                                Row(
-                                  children: [
-                                    Container(
-                                        alignment: Alignment.bottomCenter,
-                                        padding: EdgeInsets.only(top: 20),
-                                        width: w * 0.1,
-                                        height: h * 0.06,
-                                        // color: Colors.white,
-                                        child: Image.asset('images/cast_tv.png',
-                                            color: Colors.white)),
-                                    SizedBox(width: 10),
-                                    Container(
-                                        alignment: Alignment.bottomCenter,
-                                        padding: EdgeInsets.only(
-                                          top: 20,
-                                        ),
-                                        width: w * 0.1,
-                                        height: h * 0.06,
-                                        // color: Colors.green,
-                                        child: Image.asset(
-                                          'images/avatar.png',
-                                        ))
-                                  ],
-                                ),
-                              ],
-                            )),
-                        Container(
                             width: w,
                             height: h * 0.05,
                             // color: Colors.red,
@@ -110,6 +67,7 @@ class _HomePageState extends State<HomePage> {
                             )),
                       ],
                     ),
+                    NextflixAppBar(),
                   ],
                 ),
 
