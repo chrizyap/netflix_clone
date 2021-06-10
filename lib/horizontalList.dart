@@ -30,16 +30,19 @@ class _HorizontalListState extends State<HorizontalList> {
     return (Container(
       // color: Colors.green,
       width: w * 10,
-      height: h * 0.2,
+      height: h * 0.25,
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         // mainAxisAlignment: MainAxisAlignment.spaceEvenly,
         children: [
           Text(widget.title,
-              style: TextStyle(color: Colors.white, fontSize: 20)),
+              style: TextStyle(
+                  color: Colors.white,
+                  fontSize: 20,
+                  fontWeight: FontWeight.w700)),
           Container(
               // width: 10,
-              height: h * 0.14,
+              height: h * 0.2,
               // color: Colors.red,
               child: SingleChildScrollView(
                   scrollDirection: Axis.horizontal,
