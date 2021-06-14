@@ -45,23 +45,30 @@ class _HomePageState extends State<HomePage> {
                     Column(
                       children: [
                         Container(
+                            padding: EdgeInsets.only(top: 20),
                             width: w,
-                            height: h * 0.05,
+                            height: h * 0.2,
                             // color: Colors.red,
                             child: Row(
                               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                               children: [
                                 Text(
                                   'Series',
-                                  style: TextStyle(color: Colors.white),
+                                  style: TextStyle(
+                                      color: Colors.white,
+                                      fontWeight: FontWeight.w500),
                                 ),
                                 Text(
                                   'Films',
-                                  style: TextStyle(color: Colors.white),
+                                  style: TextStyle(
+                                      color: Colors.white,
+                                      fontWeight: FontWeight.w500),
                                 ),
                                 Text(
                                   'Categories',
-                                  style: TextStyle(color: Colors.white),
+                                  style: TextStyle(
+                                      color: Colors.white,
+                                      fontWeight: FontWeight.w500),
                                 ),
                               ],
                             )),
@@ -73,63 +80,76 @@ class _HomePageState extends State<HomePage> {
 
                 Container(
                     width: w,
-                    height: h * 0.07,
+                    height: h * 0.1,
                     // color: Colors.red,
-                    child: Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                    child: Column(
                       children: [
-                        Column(
+                        Container(
+                          padding: EdgeInsets.all(10),
+                          child: Text(
+                              'Japanese . Manga . School Anime . Anime Action  ',
+                              style: TextStyle(
+                                  color: Colors.white,
+                                  fontWeight: FontWeight.w400)),
+                        ),
+                        Row(
                           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                           children: [
-                            Icon(
-                              Icons.add,
-                              color: Colors.white,
-                              size: 24.0,
-                            ),
-                            Text(
-                              'My List',
-                              style: TextStyle(color: Colors.white),
-                            ),
-                          ],
-                        ),
-                        Stack(alignment: Alignment.center, children: [
-                          Container(
-                            height: h * 0.04,
-                            width: w * 0.27,
-                            decoration: BoxDecoration(
-                              borderRadius: BorderRadius.circular(7),
-                              color: Colors.white,
-                            ),
-                          ),
-                          Align(
-                            alignment: Alignment.center,
-                            child: Row(
+                            Column(
                               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                               children: [
-                                Icon(Icons.play_arrow),
+                                Icon(
+                                  Icons.add,
+                                  color: Colors.white,
+                                  size: 24.0,
+                                ),
                                 Text(
-                                  'Play',
-                                  style: TextStyle(
-                                    color: Colors.black,
-                                  ),
+                                  'My List',
+                                  style: TextStyle(color: Colors.white),
                                 ),
                               ],
                             ),
-                          ),
-                        ]),
-                        Column(
-                          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                          children: [
-                            Icon(
-                              Icons.info,
-                              color: Colors.white,
-                              size: 24.0,
-                              semanticLabel:
-                                  'Text to announce in accessibility modes',
-                            ),
-                            Text(
-                              'My List',
-                              style: TextStyle(color: Colors.white),
+                            Stack(alignment: Alignment.center, children: [
+                              Container(
+                                height: h * 0.04,
+                                width: w * 0.27,
+                                decoration: BoxDecoration(
+                                  borderRadius: BorderRadius.circular(7),
+                                  color: Colors.white,
+                                ),
+                              ),
+                              Align(
+                                alignment: Alignment.center,
+                                child: Row(
+                                  mainAxisAlignment:
+                                      MainAxisAlignment.spaceEvenly,
+                                  children: [
+                                    Icon(Icons.play_arrow),
+                                    Text(
+                                      'Play',
+                                      style: TextStyle(
+                                        color: Colors.black,
+                                      ),
+                                    ),
+                                  ],
+                                ),
+                              ),
+                            ]),
+                            Column(
+                              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                              children: [
+                                Icon(
+                                  Icons.info,
+                                  color: Colors.white,
+                                  size: 24.0,
+                                  semanticLabel:
+                                      'Text to announce in accessibility modes',
+                                ),
+                                Text(
+                                  'My List',
+                                  style: TextStyle(color: Colors.white),
+                                ),
+                              ],
                             ),
                           ],
                         ),
@@ -141,35 +161,34 @@ class _HomePageState extends State<HomePage> {
                   children: [
                     HorizontalList(
                       title: 'My List',
-                      image1: 'images/demon_slayerr.png',
-                      // image2: 'images/close_enough.jpeg',
-                      // image3: 'images/close_enough.jpeg',
-                      // image4: 'images/close_enough.jpeg',
-                      // image5: 'images/close_enough.jpeg',
+                      image1: 'images/vertical-covers/ourPlanet.jpeg',
+                      image2: 'images/vertical-covers/jojo-adventure.jpeg',
+                      image3: 'images/vertical-covers/thebeginning.jpg',
+                      image4: 'images/vertical-covers/close_enough.jpeg',
+                      image5: 'images/vertical-covers/narcos.jpg',
                     ),
                     HorizontalList(
                       title: 'Continue Watching for Nicki',
-                      image1: 'images/demon_slayerr.png',
-                      // image2: 'images/close_enough.jpeg',
-                      // image3: 'images/close_enough.jpeg',
-                      // image4: 'images/close_enough.jpeg',
-                      // image5: 'images/close_enough.jpeg',
+                      image1: 'images/vertical-covers/neon.jpeg',
+                      image2: 'images/vertical-covers/lovedeathrobots.jpg',
+                      image3: 'images/vertical-covers/fullmetal-alchemist.jpeg',
+                      image4: 'images/vertical-covers/high-rise-invasion.jpeg',
+                      image5: 'images/vertical-covers/nausicaa.jpeg',
                     ),
                     HorizontalList(
-                      title: 'Popular on Netflix',
-                      image1: 'images/demon_slayerr.png',
-                      // image2: 'images/close_enough.jpeg',
-                      // image3: 'images/close_enough.jpeg',
-                      // image4: 'images/close_enough.jpeg',
-                      // image5: 'images/close_enough.jpeg',
-                    ),
+                        title: 'Popular on Netflix',
+                        image1: 'images/vertical-covers/demon_slayer.png',
+                        image2: 'images/vertical-covers/sweetTooth.jpg',
+                        image3: 'images/vertical-covers/lupin.jpeg',
+                        image4: 'images/vertical-covers/awake.jpg',
+                        image5: 'images/vertical-covers/believeMe.jpeg'),
                     HorizontalList(
                       title: 'Trending Now',
-                      image1: 'images/demon_slayerr.png',
-                      // image2: 'images/close_enough.jpeg',
-                      // image3: 'images/close_enough.jpeg',
-                      // image4: 'images/close_enough.jpeg',
-                      // image5: 'images/close_enough.jpeg',
+                      image1: 'images/vertical-covers/ricknmorty.jpeg',
+                      image2: 'images/vertical-covers/brooklyn99.jpg',
+                      image3: 'images/vertical-covers/archer.jpeg',
+                      image4: 'images/vertical-covers/bigbang.jpeg',
+                      image5: 'images/vertical-covers/kutokosbball.jpg',
                     ),
                   ],
                 )

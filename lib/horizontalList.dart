@@ -52,19 +52,22 @@ class _HorizontalListState extends State<HorizontalList> {
                         Container(
                           padding: EdgeInsets.all(5),
                           child: Image.asset(
-                            widget.image1 ?? 'images/close_enough.jpeg',
+                            widget.image1 ??
+                                'images/vertical-covers/close_enough.jpeg',
                           ),
                         ),
                         Container(
                           padding: EdgeInsets.all(5),
                           child: Image.asset(
-                            widget.image2 ?? 'images/close_enough.jpeg',
+                            widget.image2 ??
+                                'images/vertical-covers/close_enough.jpeg',
                           ),
                         ),
                         Container(
                           padding: EdgeInsets.all(5),
                           child: Image.asset(
-                            widget.image3 ?? 'images/close_enough.jpeg',
+                            widget.image3 ??
+                                'images/vertical-covers/close_enough.jpeg',
                           ),
                         ),
                         Container(
