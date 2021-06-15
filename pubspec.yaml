@@ -46,6 +46,8 @@ flutter:
   assets:
     - images/
     - images/vertical-covers/
+    - images/horizontal-covers/
+    - images/logos/
     - videos/
 
   # An image asset can refer to one or more resolution-specific "variants", see

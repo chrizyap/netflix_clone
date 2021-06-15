@@ -8,7 +8,8 @@ class TrailerWidget extends StatefulWidget {
       this.description,
       this.coverImage,
       this.logo,
-      this.tags})
+      this.tags,
+      this.title})
       : super(key: key);
 
   final String date;
@@ -16,6 +17,7 @@ class TrailerWidget extends StatefulWidget {
   final String coverImage;
   final String logo;
   final String tags;
+  final String title;
 
   @override
   _TrailerWidgetState createState() => _TrailerWidgetState();
@@ -35,7 +37,7 @@ class _TrailerWidgetState extends State<TrailerWidget> {
             Container(
                 width: w,
                 height: h * 0.26,
-                color: Colors.red,
+                // color: Colors.red,
                 child: Stack(
                   children: [
                     Image.asset(
@@ -44,7 +46,7 @@ class _TrailerWidgetState extends State<TrailerWidget> {
                   ],
                 )),
             Container(
-                padding: EdgeInsets.all(10),
+                padding: EdgeInsets.all(18),
                 height: h * 0.1,
                 // color: Colors.yellow,
                 child: Row(
@@ -52,22 +54,21 @@ class _TrailerWidgetState extends State<TrailerWidget> {
                   children: [
                     Container(
                         child: Image.asset(
-                            widget.logo ?? 'images/sevendeadlylogo.png',
-                            scale: 10)),
-                    Row(
-                        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                        children: [
-                          Column(children: [
-                            Icon(Icons.notifications_outlined,
-                                color: Colors.white),
-                            Text('Remind Me',
-                                style: TextStyle(color: Colors.white))
-                          ]),
-                          Column(children: [
-                            Icon(Icons.info, color: Colors.white),
-                            Text('Info', style: TextStyle(color: Colors.white))
-                          ])
-                        ])
+                      widget.logo ?? 'images/sevendeadlylogo.png',
+                      scale: 10,
+                      fit: BoxFit.cover,
+                    )),
+                    Row(children: [
+                      Column(children: [
+                        Icon(Icons.notifications_outlined, color: Colors.white),
+                        Text('Remind Me', style: TextStyle(color: Colors.white))
+                      ]),
+                      SizedBox(width: 30),
+                      Column(children: [
+                        Icon(Icons.info, color: Colors.white),
+                        Text('Info', style: TextStyle(color: Colors.white))
+                      ])
+                    ])
                   ],
                 )),
             Container(
@@ -80,11 +81,16 @@ class _TrailerWidgetState extends State<TrailerWidget> {
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                     children: [
                       Text(widget.date ?? 'Season 5 on 28 June',
-                          style: TextStyle(color: Colors.white)),
+                          style: TextStyle(color: Colors.grey, fontSize: 14)),
+                      Text(widget.title ?? 'The Seven Deadly Sins',
+                          style: TextStyle(
+                              color: Colors.white,
+                              fontWeight: FontWeight.bold,
+                              fontSize: 18)),
                       Text(
                           widget.description ??
                               'While Meliodas absords the Commandments so hee can become the Demon King and save Elizabeth, Ban roams through purgatory to save his captains Soul',
-                          style: TextStyle(color: Colors.white)),
+                          style: TextStyle(color: Colors.grey)),
                       Text(
                           widget.tags ??
                               'Exciting | Fantasy Anime | Action Anime | Ensemble | Japanese',

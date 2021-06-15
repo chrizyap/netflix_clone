@@ -6,15 +6,6 @@ import './appBar.dart';
 class ComingSoon extends StatefulWidget {
   ComingSoon({Key key, this.title}) : super(key: key);
 
-  // This widget is the ComingSoon page of your application. It is stateful, meaning
-  // that it has a State object (defined below) that contains fields that affect
-  // how it looks.
-
-  // This class is the configuration for the state. It holds the values (in this
-  // case the title) provided by the parent (in this case the App widget) and
-  // used by the build method of the State. Fields in a Widget subclass are
-  // always marked "final".
-
   final String title;
 
   @override
@@ -96,9 +87,9 @@ class _ComingSoonState extends State<ComingSoon> {
                                   mainAxisAlignment:
                                       MainAxisAlignment.spaceEvenly,
                                   children: [
-                                    Text('Title',
+                                    Text('Lego Batman',
                                         style: TextStyle(color: Colors.white)),
-                                    Text('Subtitle, short and sweet',
+                                    Text('DC & Lego on the go',
                                         style: TextStyle(color: Colors.white)),
                                     Text('01 June',
                                         style: TextStyle(color: Colors.white))
@@ -127,9 +118,9 @@ class _ComingSoonState extends State<ComingSoon> {
                                   mainAxisAlignment:
                                       MainAxisAlignment.spaceEvenly,
                                   children: [
-                                    Text('Title',
+                                    Text('Die Hard 5 ',
                                         style: TextStyle(color: Colors.white)),
-                                    Text('Subtitle, short and sweet',
+                                    Text('An action packed film',
                                         style: TextStyle(color: Colors.white)),
                                     Text('01 June',
                                         style: TextStyle(color: Colors.white))
@@ -141,8 +132,55 @@ class _ComingSoonState extends State<ComingSoon> {
                         ],
                       )),
                   SizedBox(height: 50),
-                  TrailerWidget(),
-                  TrailerWidget(date: 'Season 2 30 June')
+                  TrailerWidget(
+                    coverImage: 'images/horizontal-covers/sevenDeadlySins.jpeg',
+                    title: 'The Seven Deadly Sins',
+                    date: 'Season 5 on June 28',
+                    description:
+                        'While Meliodas absords the Commandments so hee can become the Demon King and save Elizabeth, Ban roams through purgatory to save his captains Soul',
+                    tags:
+                        ' Exciting | Fantasy Anime | Action Anime | Ensemble | Japanese',
+                  ),
+                  TrailerWidget(
+                    coverImage:
+                        'images/horizontal-covers/recordOfRagnarok.jpeg',
+                    logo: 'images/logos/recordOfRagnorok.png',
+                    title: 'Record of Ragnarok',
+                    date: 'Season 5 on June 28',
+                    description:
+                        'Before eradicating humankind from the world, the gods give them one last chance to prove themselves worthy of survival. Let the Ragnarok battles begin.',
+                    tags: ' Exciting | Fantasy Anime | Action Anime | Ensemble',
+                  ),
+                  TrailerWidget(
+                    coverImage: 'images/horizontal-covers/myHeroAcademia.jpeg',
+                    logo: 'images/logos/myHeroAcademia.png',
+                    title: 'My Hero Academia',
+                    date: 'Season 1 Coming on July 1',
+                    description:
+                        'Most people in the world have powers called Quirks, but not Izuku. When he meets the worlds greatest Hero, that changes, as does his destiny. ',
+                    tags:
+                        ' Goofy | Exciting | Feel-Good | Superhero | Teen | Action Anime',
+                  ),
+                  TrailerWidget(
+                    coverImage: 'images/horizontal-covers/residentEvil.jpeg',
+                    logo: 'images/logos/residentEvil.png',
+                    title: 'RESIDENT EVIL: Infinite Darkness',
+                    date: 'Season 1 Coming on 8 July',
+                    description:
+                        'Years after the horrors of Raccon City, Leon and Claire find themselves consumed by a dark conspiracy when a viral attack ravages the White House. ',
+                    tags:
+                        ' Gruesome | Gory | Suspenseful | Horror Anime | Adult Animation ',
+                  ),
+                  TrailerWidget(
+                    coverImage: 'images/horizontal-covers/hobbsAndShaw.jpeg',
+                    logo: 'images/logos/hobbsAndShaw.png',
+                    title: 'Fast & Furious Presents: Hobbs & Shaw',
+                    date: 'Coming on 2 July',
+                    description:
+                        'When US agent Luke Hobbs is sent to England to stop a deadly biothreat, hes forced to team up with his nemesis, mercenary Deckard Shaw.',
+                    tags:
+                        ' Explosive | Slick | Exciting | Action & Adventure | High-Octane ',
+                  ),
                 ],
               ),
             ),
