@@ -10,7 +10,7 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		ZxeZVomFSxf0Ou5KyoH4tMNxrGk=
+		dCA1TxBb5Ic/lRn4fBhgQxcnAyI=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -52,13 +52,61 @@
 		<data>
 		V48j02pSQ6ShNc0rH45JqdnpzH8=
 		</data>
+		<key>flutter_assets/images/horizontal-covers/hobbsAndShaw.jpeg</key>
+		<data>
+		LwZuajC/NOQLll7gHJh0fs+BkaI=
+		</data>
+		<key>flutter_assets/images/horizontal-covers/myHeroAcademia.jpeg</key>
+		<data>
+		eghYX88OB01uKhYHMgwYRYWUIcc=
+		</data>
+		<key>flutter_assets/images/horizontal-covers/recordOfRagnarok.jpeg</key>
+		<data>
+		utqI96APTvyuCfQ27GCmM/J5uYQ=
+		</data>
+		<key>flutter_assets/images/horizontal-covers/residentEvil.jpeg</key>
+		<data>
+		I7r+a3zQsc/f3GnWNACAZk3TxSU=
+		</data>
+		<key>flutter_assets/images/horizontal-covers/sevenDeadlySins.jpeg</key>
+		<data>
+		8A1yOdbkrH+tF5prenOfKILyzEk=
+		</data>
 		<key>flutter_assets/images/humor.png</key>
 		<data>
 		A8bwqt2UPDcCeUAOs07wcs7CEW8=
 		</data>
+		<key>flutter_assets/images/laughs/ricknmortyclip.jpeg</key>
+		<data>
+		eq0cDSDhOAnGYgv1uWr12GiTzBI=
+		</data>
+		<key>flutter_assets/images/laughs/trainwreck.jpg</key>
+		<data>
+		Q7AyB2Lz+qhSMOYRotsw4Gi5gBM=
+		</data>
 		<key>flutter_assets/images/lego-batman.jpeg</key>
 		<data>
 		f7oJUW1X2Ik8Zf8JI+ch2H1hLVs=
+		</data>
+		<key>flutter_assets/images/logos/hobbsAndShaw.png</key>
+		<data>
+		4TfTo4uMoPManFdnmGY9ivJBUEU=
+		</data>
+		<key>flutter_assets/images/logos/myHeroAcademia.png</key>
+		<data>
+		WPCQKj0AJ7dBfXvqU14QmVaDHfA=
+		</data>
+		<key>flutter_assets/images/logos/recordOfRagnorok.png</key>
+		<data>
+		YwzFEnolfGWpCBpI0Q6/2VZMJJs=
+		</data>
+		<key>flutter_assets/images/logos/residentEvil.png</key>
+		<data>
+		kgtd9GcH0N3TWtUO02/UPYGVAyk=
+		</data>
+		<key>flutter_assets/images/logos/trainwreck.png</key>
+		<data>
+		f0jdDqx0m74nEuEcReyuVmb9enU=
 		</data>
 		<key>flutter_assets/images/netflix_logo.png</key>
 		<data>
@@ -67,10 +115,6 @@
 		<key>flutter_assets/images/ricknmorty.jpeg</key>
 		<data>
 		Rh81yeWZaWfH1G7QyK6qpqTR+vc=
-		</data>
-		<key>flutter_assets/images/ricknmortyclip.jpeg</key>
-		<data>
-		eq0cDSDhOAnGYgv1uWr12GiTzBI=
 		</data>
 		<key>flutter_assets/images/ricknmortylogo.png</key>
 		<data>
@@ -174,7 +218,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		8bkKiZO4KNcswV0kMB9e5EHFOqQ=
+		sXh90jxtflQVFZQUb6nbZgJY5Xk=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -195,11 +239,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZxeZVomFSxf0Ou5KyoH4tMNxrGk=
+			dCA1TxBb5Ic/lRn4fBhgQxcnAyI=
 			</data>
 			<key>hash2</key>
 			<data>
-			TAyaaYdIqQhStFcApzNDwbmeOSdbDOUTrHeaQFzrdKI=
+			4sHXCa1mjirbb7X6CMe5ZcRFGTh/FrYWjl0WBf5PaSQ=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -312,6 +356,61 @@
 			Ca01N4/II3ZQ7LxHHs1SxeKq28TqiT1lgtqh7KjYgfs=
 			</data>
 		</dict>
+		<key>flutter_assets/images/horizontal-covers/hobbsAndShaw.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LwZuajC/NOQLll7gHJh0fs+BkaI=
+			</data>
+			<key>hash2</key>
+			<data>
+			olfCd2dwYGdrDTmpE8rZKRkhVHLj+FRRpKbRHU2zDnA=
+			</data>
+		</dict>
+		<key>flutter_assets/images/horizontal-covers/myHeroAcademia.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eghYX88OB01uKhYHMgwYRYWUIcc=
+			</data>
+			<key>hash2</key>
+			<data>
+			dZOMH4UrTCB+e9KLhf0Bx10wGSU/JVbhm8GYbmoFtis=
+			</data>
+		</dict>
+		<key>flutter_assets/images/horizontal-covers/recordOfRagnarok.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			utqI96APTvyuCfQ27GCmM/J5uYQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			yhau+zGIMicBPGG2twyyz0o5YNRg8ny4LeXpmeXaJ7c=
+			</data>
+		</dict>
+		<key>flutter_assets/images/horizontal-covers/residentEvil.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			I7r+a3zQsc/f3GnWNACAZk3TxSU=
+			</data>
+			<key>hash2</key>
+			<data>
+			COpzGxp1Jdni4b5LBzgCAusgAdvrV36hAMQu4IAV2I4=
+			</data>
+		</dict>
+		<key>flutter_assets/images/horizontal-covers/sevenDeadlySins.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8A1yOdbkrH+tF5prenOfKILyzEk=
+			</data>
+			<key>hash2</key>
+			<data>
+			+3UKC4wAKqGwnbzc8/zcWH+KpgZxjk+uqb3DSQWCtIQ=
+			</data>
+		</dict>
 		<key>flutter_assets/images/humor.png</key>
 		<dict>
 			<key>hash</key>
@@ -323,6 +422,28 @@
 			Nw1slX1hy972Ia6lQcY+xY4gMhotL2cRyNA9O13KJ+4=
 			</data>
 		</dict>
+		<key>flutter_assets/images/laughs/ricknmortyclip.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eq0cDSDhOAnGYgv1uWr12GiTzBI=
+			</data>
+			<key>hash2</key>
+			<data>
+			IYgcoNXypw5qSJYy54AidTzk3xpZM4FB4SvVbIKhc2o=
+			</data>
+		</dict>
+		<key>flutter_assets/images/laughs/trainwreck.jpg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Q7AyB2Lz+qhSMOYRotsw4Gi5gBM=
+			</data>
+			<key>hash2</key>
+			<data>
+			0sPLs5Xcl2b5ueqBxcHJVZ8xOilvZ4zJ/G0P6iAuLsA=
+			</data>
+		</dict>
 		<key>flutter_assets/images/lego-batman.jpeg</key>
 		<dict>
 			<key>hash</key>
@@ -332,6 +453,61 @@
 			<key>hash2</key>
 			<data>
 			/UiyVqv4gbnZo8jr98pq0mJqSFmBC4dYf2NovZV54so=
+			</data>
+		</dict>
+		<key>flutter_assets/images/logos/hobbsAndShaw.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4TfTo4uMoPManFdnmGY9ivJBUEU=
+			</data>
+			<key>hash2</key>
+			<data>
+			IDyzx+R1p5f8yTl1PFOK9v9YgjWiEiahOz9r/Q8W7co=
+			</data>
+		</dict>
+		<key>flutter_assets/images/logos/myHeroAcademia.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WPCQKj0AJ7dBfXvqU14QmVaDHfA=
+			</data>
+			<key>hash2</key>
+			<data>
+			W53B0O4mG2A86vFGKS+2dbtpSRDfahqN30yJETEGmI0=
+			</data>
+		</dict>
+		<key>flutter_assets/images/logos/recordOfRagnorok.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YwzFEnolfGWpCBpI0Q6/2VZMJJs=
+			</data>
+			<key>hash2</key>
+			<data>
+			QO8lr9js4SCkPJYdyDdgaN7UjJMEv/kNng9IFN24oTY=
+			</data>
+		</dict>
+		<key>flutter_assets/images/logos/residentEvil.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kgtd9GcH0N3TWtUO02/UPYGVAyk=
+			</data>
+			<key>hash2</key>
+			<data>
+			NlVk8bQF2opJxd9QSSM/o2wh50ZwyYNj8EqyXdFl4jY=
+			</data>
+		</dict>
+		<key>flutter_assets/images/logos/trainwreck.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			f0jdDqx0m74nEuEcReyuVmb9enU=
+			</data>
+			<key>hash2</key>
+			<data>
+			tcHN3ooc3SWismoKE7onbNyHcTtBTOzlnvp28vHa5UI=
 			</data>
 		</dict>
 		<key>flutter_assets/images/netflix_logo.png</key>
@@ -354,17 +530,6 @@
 			<key>hash2</key>
 			<data>
 			5SYNlvcJgM5ZYP/LnALaRvxgw44sbbt0Ftutq0rqZUY=
-			</data>
-		</dict>
-		<key>flutter_assets/images/ricknmortyclip.jpeg</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			eq0cDSDhOAnGYgv1uWr12GiTzBI=
-			</data>
-			<key>hash2</key>
-			<data>
-			IYgcoNXypw5qSJYy54AidTzk3xpZM4FB4SvVbIKhc2o=
 			</data>
 		</dict>
 		<key>flutter_assets/images/ricknmortylogo.png</key>
@@ -646,11 +811,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8bkKiZO4KNcswV0kMB9e5EHFOqQ=
+			sXh90jxtflQVFZQUb6nbZgJY5Xk=
 			</data>
 			<key>hash2</key>
 			<data>
-			83fLHcRpgkYfSq7lUoLnt5E++MZIjtYQdxdtiHy+T7g=
+			IaziPCx0mixAMcExug5s6yk9aItNNefO1FtbgXXuOC0=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>

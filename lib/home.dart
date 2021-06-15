@@ -51,9 +51,10 @@ class _HomeState extends State<Home> {
                   label: 'Home',
                   backgroundColor: Colors.red),
               BottomNavigationBarItem(
-                  icon: Icon(Icons.style_outlined), label: 'Coming Soooon'),
+                  icon: Icon(Icons.style_outlined), label: 'Coming Soon'),
               BottomNavigationBarItem(
-                  icon: Icon(Icons.emoji_emotions_outlined), label: 'Humour'),
+                  icon: Icon(Icons.emoji_emotions_outlined),
+                  label: 'Quick Laughs'),
               BottomNavigationBarItem(icon: Icon(Icons.search), label: 'Search')
             ]),
         body: _tabs[_currentIndex]);

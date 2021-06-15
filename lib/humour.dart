@@ -28,7 +28,15 @@ class _HumourState extends State<Humour> {
       body: Center(
           child: SingleChildScrollView(
         child: Column(
-          children: [HumourTile(), HumourTile()],
+          children: [
+            HumourTile(
+                backgroundImage: 'images/laughs/trainwreck.jpg',
+                logo: 'images/logos/ricknmortylogo.png'),
+            HumourTile(backgroundImage: 'images/laughs/ricknmortyclip.jpeg'),
+            HumourTile(backgroundImage: 'images/laughs/family_reunion.jpg'),
+            HumourTile(backgroundImage: 'images/laughs/ginny_gerogia.jpeg'),
+            HumourTile(backgroundImage: 'images/laughs/breaking_bad.jpeg')
+          ],
         ),
       )),
     );

@@ -3,9 +3,12 @@ import './horizontalList.dart';
 import './trailerWidget.dart';
 
 class HumourTile extends StatefulWidget {
-  HumourTile({Key key, this.title}) : super(key: key);
+  HumourTile({Key key, this.title, this.backgroundImage, this.logo})
+      : super(key: key);
 
   final String title;
+  final String logo;
+  final String backgroundImage;
 
   @override
   _HumourTileState createState() => _HumourTileState();
@@ -22,11 +25,23 @@ class _HumourTileState extends State<HumourTile> {
       height: h,
       color: Colors.black,
       child: Stack(children: [
-        Container(
-            width: w,
-            height: h,
-            color: Colors.green,
-            child: Image.asset('images/ricknmortyclip.jpeg', fit: BoxFit.fill)),
+        Opacity(
+          opacity: 0.5,
+          child: Container(
+              width: w,
+              height: h,
+              color: Colors.green,
+              child: Image.asset(
+                widget.backgroundImage ?? 'images/laughs/ricknmortyclip.jpeg',
+                fit: BoxFit.fill,
+              )),
+        ),
+        Center(
+            child: Container(
+                width: w * 0.3,
+                height: h * 0.1,
+                // color: Colors.red,
+                child: Icon(Icons.play_arrow, size: 100, color: Colors.white))),
         Padding(
           padding: EdgeInsets.only(
             top: 50,
@@ -35,7 +50,9 @@ class _HumourTileState extends State<HumourTile> {
               width: w * 0.5,
               height: h * 0.1,
               // color: Colors.red,
-              child: Image.asset('images/ricknmortylogo.png', scale: 2)),
+              child: Image.asset(
+                  widget.logo ?? 'images/logos/ricknmortylogo.png',
+                  scale: 2)),
         ),
         Container(
           // color: Colors.green,
