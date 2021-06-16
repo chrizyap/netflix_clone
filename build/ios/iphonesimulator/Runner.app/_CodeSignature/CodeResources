@@ -110,7 +110,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		DXOZcp2/T841nCymgTMiHav4dzk=
+		klB66LKY8dH1YLIEq8zmx8KD/hQ=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -118,11 +118,11 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		9KcvbG5SkaaE+BVPBWGXnofj40M=
+		0OPNXfCxmjEFm0rjIaUD6jUeSE4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		dCA1TxBb5Ic/lRn4fBhgQxcnAyI=
+		d+b66YfdRqSOVbAJ38GWn0YCEPg=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -188,6 +188,18 @@
 		<data>
 		A8bwqt2UPDcCeUAOs07wcs7CEW8=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/laughs/breaking_bad.jpeg</key>
+		<data>
+		gJWIwhb2Ie7Kk4lyF4o9DpEDWGQ=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/laughs/family_reunion.jpg</key>
+		<data>
+		3m3VdmNPLmIJGE7S4vIrzRLxNxY=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/laughs/ginny_gerogia.jpeg</key>
+		<data>
+		MCcdkGeS44MG7eZCIE7oQGt5Ksg=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/images/laughs/ricknmortyclip.jpeg</key>
 		<data>
 		eq0cDSDhOAnGYgv1uWr12GiTzBI=
@@ -199,6 +211,18 @@
 		<key>Frameworks/App.framework/flutter_assets/images/lego-batman.jpeg</key>
 		<data>
 		f7oJUW1X2Ik8Zf8JI+ch2H1hLVs=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/logos/Family_reunion.png</key>
+		<data>
+		7W46GCnrjHla8ufhLYu9UJQO50c=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/logos/breaking_bad.png</key>
+		<data>
+		3mS7bnRzL30hpVvDSyvSEs9IPjI=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/logos/ginny_geogia.png</key>
+		<data>
+		pwjVNb4cht5Z/N/ZaFOtcHsKYDc=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/images/logos/hobbsAndShaw.png</key>
 		<data>
@@ -216,6 +240,10 @@
 		<data>
 		kgtd9GcH0N3TWtUO02/UPYGVAyk=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/logos/ricknmortylogo.png</key>
+		<data>
+		6BXSecHFLMYwv8fl/2uR0aDiT4A=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/images/logos/trainwreck.png</key>
 		<data>
 		f0jdDqx0m74nEuEcReyuVmb9enU=
@@ -227,10 +255,6 @@
 		<key>Frameworks/App.framework/flutter_assets/images/ricknmorty.jpeg</key>
 		<data>
 		Rh81yeWZaWfH1G7QyK6qpqTR+vc=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/ricknmortylogo.png</key>
-		<data>
-		6BXSecHFLMYwv8fl/2uR0aDiT4A=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/images/search.png</key>
 		<data>
@@ -330,7 +354,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		sXh90jxtflQVFZQUb6nbZgJY5Xk=
+		iBL5CeNA0M0hNfv8HCFxENromOM=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -717,11 +741,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DXOZcp2/T841nCymgTMiHav4dzk=
+			klB66LKY8dH1YLIEq8zmx8KD/hQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			01UFPunZmUAjXPrkxtXjFq/9fONWgK5MRbm9puxTi7o=
+			OmdWjmTVZn0MVNS5KdQdUX5buJXff4dDZ6Tbbh//7hw=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -739,22 +763,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9KcvbG5SkaaE+BVPBWGXnofj40M=
+			0OPNXfCxmjEFm0rjIaUD6jUeSE4=
 			</data>
 			<key>hash2</key>
 			<data>
-			B1/z7wFiAg56umfXrIKhGPGx/XbZWbpp+TerFuG6VSU=
+			rPB+lt7bGRo5D1EnWeXSGPlSKV8krYrG+0kOhzn2bRA=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dCA1TxBb5Ic/lRn4fBhgQxcnAyI=
+			d+b66YfdRqSOVbAJ38GWn0YCEPg=
 			</data>
 			<key>hash2</key>
 			<data>
-			4sHXCa1mjirbb7X6CMe5ZcRFGTh/FrYWjl0WBf5PaSQ=
+			z0HjR5aTIDseqiWvVTaHQTDeC8FXAy/X6Al0OIdy68U=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -933,6 +957,39 @@
 			Nw1slX1hy972Ia6lQcY+xY4gMhotL2cRyNA9O13KJ+4=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/laughs/breaking_bad.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gJWIwhb2Ie7Kk4lyF4o9DpEDWGQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			SNjavuPeDAI0Dy8Lb5MS1tmVWqPFf5TmDjj+yAnj7Bk=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/laughs/family_reunion.jpg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3m3VdmNPLmIJGE7S4vIrzRLxNxY=
+			</data>
+			<key>hash2</key>
+			<data>
+			Q+jsZDeqMGfBbv4LHY4xedD7W0vB6+4+zHBqSs+6M04=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/laughs/ginny_gerogia.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MCcdkGeS44MG7eZCIE7oQGt5Ksg=
+			</data>
+			<key>hash2</key>
+			<data>
+			v0duauk+7tnvWmv/33nX5GfrvBf0ql1FtQpymHmK51U=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/images/laughs/ricknmortyclip.jpeg</key>
 		<dict>
 			<key>hash</key>
@@ -964,6 +1021,39 @@
 			<key>hash2</key>
 			<data>
 			/UiyVqv4gbnZo8jr98pq0mJqSFmBC4dYf2NovZV54so=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/logos/Family_reunion.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7W46GCnrjHla8ufhLYu9UJQO50c=
+			</data>
+			<key>hash2</key>
+			<data>
+			mSo3x5sf+X+CcuU4gmec41O7P6VPteig0Bhs2jS3VJQ=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/logos/breaking_bad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3mS7bnRzL30hpVvDSyvSEs9IPjI=
+			</data>
+			<key>hash2</key>
+			<data>
+			sVSKozwtRp/OoQ9hqezg00vTIqpJZkSkY4weALgmifk=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/logos/ginny_geogia.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pwjVNb4cht5Z/N/ZaFOtcHsKYDc=
+			</data>
+			<key>hash2</key>
+			<data>
+			vQp+DHbST4aV+txdCesZsIf5zZrMcYg2tYfBY34YgDY=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/images/logos/hobbsAndShaw.png</key>
@@ -1010,6 +1100,17 @@
 			NlVk8bQF2opJxd9QSSM/o2wh50ZwyYNj8EqyXdFl4jY=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/logos/ricknmortylogo.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6BXSecHFLMYwv8fl/2uR0aDiT4A=
+			</data>
+			<key>hash2</key>
+			<data>
+			hxreEC6VhSIsKGG1BMtMc3X0EPrAeWEEBJbwI8fWbcc=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/images/logos/trainwreck.png</key>
 		<dict>
 			<key>hash</key>
@@ -1041,17 +1142,6 @@
 			<key>hash2</key>
 			<data>
 			5SYNlvcJgM5ZYP/LnALaRvxgw44sbbt0Ftutq0rqZUY=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/ricknmortylogo.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			6BXSecHFLMYwv8fl/2uR0aDiT4A=
-			</data>
-			<key>hash2</key>
-			<data>
-			hxreEC6VhSIsKGG1BMtMc3X0EPrAeWEEBJbwI8fWbcc=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/images/search.png</key>
@@ -1322,11 +1412,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sXh90jxtflQVFZQUb6nbZgJY5Xk=
+			iBL5CeNA0M0hNfv8HCFxENromOM=
 			</data>
 			<key>hash2</key>
 			<data>
-			IaziPCx0mixAMcExug5s6yk9aItNNefO1FtbgXXuOC0=
+			oxGSiQl6q3FjPKD3pRY9iEEF32HCfVYsDEehxNTJMVw=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
