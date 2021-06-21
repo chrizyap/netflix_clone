@@ -31,11 +31,19 @@ class _HumourState extends State<Humour> {
           children: [
             HumourTile(
                 backgroundImage: 'images/laughs/trainwreck.jpg',
+                logo: 'images/logos/trainwreck.png'),
+            HumourTile(
+                backgroundImage: 'images/laughs/ricknmortyclip.jpeg',
                 logo: 'images/logos/ricknmortylogo.png'),
-            HumourTile(backgroundImage: 'images/laughs/ricknmortyclip.jpeg'),
-            HumourTile(backgroundImage: 'images/laughs/family_reunion.jpg'),
-            HumourTile(backgroundImage: 'images/laughs/ginny_gerogia.jpeg'),
-            HumourTile(backgroundImage: 'images/laughs/breaking_bad.jpeg')
+            HumourTile(
+                backgroundImage: 'images/laughs/family_reunion.jpg',
+                logo: 'images/logos/Family_reunion.png'),
+            HumourTile(
+                backgroundImage: 'images/laughs/ginny_gerogia.jpeg',
+                logo: 'images/logos/ginny_geogia.png'),
+            HumourTile(
+                backgroundImage: 'images/laughs/breaking_bad.jpeg',
+                logo: 'images/logos/breaking_bad.png')
           ],
         ),
       )),

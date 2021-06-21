@@ -34,7 +34,7 @@ class _ComingSoonState extends State<ComingSoon> {
                           Container(
                               padding: EdgeInsets.all(10),
                               width: w,
-                              height: h * 0.05,
+                              height: h * 0.1,
                               // color: Colors.red,
                               child: Row(
                                 children: [
@@ -46,18 +46,25 @@ class _ComingSoonState extends State<ComingSoon> {
                                             // color: Colors.red,
                                             borderRadius:
                                                 BorderRadius.circular(19))),
-                                    Align(
-                                      alignment: Alignment.centerRight,
-                                      child: Icon(Icons.notifications_outlined,
-                                          color: Colors.white, size: 40),
+                                    Container(
+                                      child: Align(
+                                        child: Icon(
+                                            Icons.notifications_outlined,
+                                            color: Colors.white,
+                                            size: 40),
+                                      ),
                                     ),
                                   ]),
                                   SizedBox(width: 20),
                                   Text('Notifications',
                                       style: TextStyle(
                                           color: Colors.white, fontSize: 20)),
-                                  Icon(Icons.arrow_forward_ios_outlined,
-                                      color: Colors.white),
+                                  Container(
+                                    // color: Colors.green,
+                                    child: Icon(
+                                        Icons.arrow_forward_ios_outlined,
+                                        color: Colors.white),
+                                  ),
                                 ],
                               )),
                         ],

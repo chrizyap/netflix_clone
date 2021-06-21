@@ -34,8 +34,12 @@ class _SearchState extends State<Search> {
                       borderRadius: BorderRadius.circular(5),
                       color: Colors.grey),
                   child: TextField(
+                    // textAlign: TextAlign.center,
                     decoration: InputDecoration(
-                      hintText: 'Hint Text',
+                      contentPadding:
+                          EdgeInsets.fromLTRB(20.0, 10.0, 20.0, 10.0),
+                      prefixIcon: Icon(Icons.search),
+                      hintText: 'Search',
                       fillColor: Colors.white,
                       focusColor: Colors.white,
                       enabledBorder: OutlineInputBorder(
@@ -73,13 +77,39 @@ class _SearchState extends State<Search> {
                           textAlign: TextAlign.left),
                     ),
                   ),
-                  SearchTile(),
-                  SearchTile(),
-                  SearchTile(),
-                  SearchTile(),
-                  SearchTile(),
-                  SearchTile(),
-                  SearchTile(),
+                  SearchTile(
+                      title: 'Record of Ragnorok',
+                      coverImage:
+                          'images/horizontal-covers/recordOfRagnarok.jpeg'),
+                  SearchTile(
+                      title: 'Trese',
+                      coverImage: 'images/horizontal-covers/trese.png'),
+                  SearchTile(
+                      title: 'Demon Slayer',
+                      coverImage: 'images/horizontal-covers/demonSlayer.jpeg'),
+                  SearchTile(
+                      title: 'My Hero Academia',
+                      coverImage:
+                          'images/horizontal-covers/myHeroAcademia.jpeg'),
+                  SearchTile(
+                      title: 'One Punch Man',
+                      coverImage: 'images/horizontal-covers/onePunchMan.jpeg'),
+                  SearchTile(
+                      title: 'Seven Deadly Sins',
+                      coverImage:
+                          'images/horizontal-covers/sevenDeadlySins.jpeg'),
+                  SearchTile(
+                      title: 'South Park',
+                      coverImage: 'images/horizontal-covers/southPark.jpeg'),
+                  SearchTile(
+                      title: 'Big Mouth',
+                      coverImage: 'images/horizontal-covers/bigMouth.jpeg'),
+                  SearchTile(
+                      title: 'Death Note',
+                      coverImage: 'images/horizontal-covers/deathNote.jpeg'),
+                  SearchTile(
+                      title: 'Shark Trail',
+                      coverImage: 'images/horizontal-covers/sharkTail.jpeg'),
                 ],
               ),
             )),
